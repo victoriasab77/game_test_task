@@ -1,0 +1,29 @@
+.container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  height: 100vh;
+  text-align: center;
+}
+
+.centered-row {
+  display: flex;
+  justify-content: center;
+  margin-bottom: 20px;
+  height: 10vh;
+}
+
+.matchstick {
+  width: 100px;
+  height: auto;
+  margin: -17px;
+}
+
+.button-container {
+  margin-bottom: 20px;
+}
+
+.taken-matchsticks {
+  margin-top: 20px;
+}
